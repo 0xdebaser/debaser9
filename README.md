@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debaser9.
+- 👋 Hi, I’m @0xdebaser.
 - 👀 I’m interested in web3.
 - 🌱 I’m currently learning React and Solidity.
 - 💞️ I’m looking to collaborate on anything interesting--the stranger the better.
